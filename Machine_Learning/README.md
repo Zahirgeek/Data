@@ -8,3 +8,5 @@
 # [DecisionTree](https://github.com/Zahirgeek/Data/tree/master/Machine_Learning/DecisionTree)(决策树)
 
 # [K-means](https://github.com/Zahirgeek/Data/tree/master/Machine_Learning/K-means)
+
+# [PCA]()(主成分分析方法)
