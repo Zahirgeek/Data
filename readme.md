@@ -1,3 +1,3 @@
-# [Data_Analysis]()(数据分析)
+# [Data_Analysis](https://github.com/Zahirgeek/Data/tree/master/Data_Analysis)(数据分析)
 
-# [Machine_Learning]()(机器学习)
+# [Machine_Learning](https://github.com/Zahirgeek/Data/tree/master/Machine_Learning)(机器学习)
