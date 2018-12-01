@@ -9,4 +9,4 @@
 
 # [K-means](https://github.com/Zahirgeek/Data/tree/master/Machine_Learning/K-means)
 
-# [PCA]()(主成分分析方法)
+# [PCA](https://github.com/Zahirgeek/Data/tree/master/Machine_Learning/PCA)(主成分分析方法)
