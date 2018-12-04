@@ -4,6 +4,6 @@
 
 # [TensorFlow](https://github.com/Zahirgeek/Data/tree/master/TensorFlow)
 
-# [AntiFraud]()(小项目: 金融反欺诈)
+# [AntiFraud](https://github.com/Zahirgeek/Data/blob/master/AntiFraud.ipynb)(小项目: 金融反欺诈)
 
-# [Algorithm]()(算法)
+# [Algorithm](https://github.com/Zahirgeek/Data/tree/master/Algorithm)(算法)
