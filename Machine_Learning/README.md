@@ -10,4 +10,4 @@
 # [K-means](https://github.com/Zahirgeek/Data/tree/master/Machine_Learning/K-means)
 
 # [PCA](https://github.com/Zahirgeek/Data/tree/master/Machine_Learning/PCA)(主成分分析方法)
-# [Bayes]()(贝叶斯分布)
+# [Bayes](https://github.com/Zahirgeek/Data/tree/master/Machine_Learning/Bayes)(贝叶斯分布)
