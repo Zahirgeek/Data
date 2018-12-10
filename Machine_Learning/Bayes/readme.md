@@ -1,4 +1,4 @@
-## [短信分类]()
+## [短信分类](https://github.com/Zahirgeek/Data/blob/master/Machine_Learning/Bayes/%E7%9F%AD%E4%BF%A1%E5%88%86%E7%B1%BB.ipynb)
 - 文本分类：伯努利贝叶斯、多项式贝叶斯
 - 稀松矩阵占内存小
 
