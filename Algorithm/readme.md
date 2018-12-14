@@ -4,7 +4,7 @@
 ## [Bayes](https://github.com/Zahirgeek/Data/blob/master/Algorithm/Bayes.ipynb)(贝叶斯分布)
 - 三种贝叶斯模型：高斯贝叶斯，多项式贝叶斯，伯努利贝叶斯
 
-## [DecisionTree]()(决策树)
+## [DecisionTree](https://github.com/Zahirgeek/Data/blob/master/Algorithm/DecisionTree.ipynb)(决策树)
 - DecisionTree
 
 - 集成学习
