@@ -3,3 +3,14 @@
 ## [Logistic Regression](https://github.com/Zahirgeek/Data/blob/master/Algorithm/Logistic%20Regression.ipynb)(逻辑斯蒂回归)
 ## [Bayes](https://github.com/Zahirgeek/Data/blob/master/Algorithm/Bayes.ipynb)(贝叶斯分布)
 - 三种贝叶斯模型：高斯贝叶斯，多项式贝叶斯，伯努利贝叶斯
+
+## [DecisionTree]()(决策树)
+- DecisionTree
+
+- 集成学习
+	- 针对同一数据集，训练多种学习器解决同一个问题
+	- Bagging(套袋法)
+		- RandomForest
+	- Boosting(提升法)
+		- GradientBoosting
+		- AdaBoost
