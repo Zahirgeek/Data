@@ -15,4 +15,4 @@
 		- GradientBoosting
 		- AdaBoost
 ## SVM
-### [SVC_rbf]()(基于半径分类问题)
+### [SVC_rbf](https://github.com/Zahirgeek/Data/blob/master/Algorithm/SVC_rbf.ipynb)(基于半径分类问题)
