@@ -14,3 +14,5 @@
 	- Boosting(提升法)
 		- GradientBoosting
 		- AdaBoost
+## SVM
+### [SVC_rbf]()(基于半径分类问题)
